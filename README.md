@@ -2,7 +2,7 @@
 
 ### Technologies used:
 Kubernetes, Docker, MongoDB, Mongo Express
-###
+### Project Description:
 - Setup local K8s cluster with Minikube
 - Deploy MongoDB and MongoExpress with configuration and credentials extracted into
 - ConfigMap and Secret
